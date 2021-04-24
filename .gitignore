@@ -1,0 +1,16 @@
+target/
+*.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+### Eclipse ###
+.settings
+.classpath
+.project
+.factorypath
+
+### vscode ###
+.vscode
